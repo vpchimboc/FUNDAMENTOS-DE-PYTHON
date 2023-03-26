@@ -56,4 +56,12 @@ En este curso aprenderemos el manejo de la herramienta Python desde un nivel int
 - 6.1.4.	Gráficos de líneas, columnas, combinados
 - 6.1.5.	Gráficos estadísticos
 - 6.1.6.	Práctica de gráficos
+### Configuración del entorno
+Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos/index.html).
 
+### Material Extra del Curso
+- Guía de estilo escritura python: [PEP 8](https://www.python.org/dev/peps/pep-0008/?fbclid=IwAR1nA1UklLNW22-9t32Clybzyczj_i6EMA1fJdk9TwUe-OXLSriPQH9xKhE)
+- [Libros Python](https://drive.google.com/drive/folders/1u_dg31pkLasj2H3L4VO2QUNFnYpA9bn1?usp=sharing) 
+- [Activar python anaconda CMD](https://stackoverflow.com/questions/49616399/windows-anaconda-python-is-not-recognized-as-an-internal-or-external-command)
+- [Documentación Numpy Style](https://numpydoc.readthedocs.io/en/latest/format.html)
+- Intro [Jupyter Notebook](https://www.youtube.com/watch?v=CwbMaSkKDZg&ab_channel=RafaGonzalezGouveia)
