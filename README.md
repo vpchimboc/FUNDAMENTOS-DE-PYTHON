@@ -57,7 +57,7 @@ En este curso aprenderemos el manejo de la herramienta Python desde un nivel int
 - 6.1.5.	Gráficos estadísticos
 - 6.1.6.	Práctica de gráficos
 ### Configuración del entorno
-Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos/index.html).
+Para instalar Anaconda y VsCode sigue el siguiente [link](https://github.com/vpchimboc/FUNDAMENTOS-DE-PYTHON/blob/main/Configuraci%C3%B3n%20del%20entorno.ipynb).
 
 ### Material Extra del Curso
 - Guía de estilo escritura python: [PEP 8](https://www.python.org/dev/peps/pep-0008/?fbclid=IwAR1nA1UklLNW22-9t32Clybzyczj_i6EMA1fJdk9TwUe-OXLSriPQH9xKhE)
