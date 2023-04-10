@@ -21,11 +21,29 @@ empleados = {"Juan": {"departamento": "Ventas", "sueldo": 1500}, "María": {"dep
 #a) Imprime el sueldo de Pedro.
 #b) Cambia el sueldo de Ana a 2000.
 #c) Crea un nuevo diccionario con los empleados del departamento de Ventas.
+lista=[]
+disct=dict()
+for c,v in empleados.items():
+    for a,b in v.items():
+        if b=="Ventas":
+            lista.append(c)
+            disct[c]={a:b}
+print(lista)
+print(disct)
 #6.Dado el siguiente diccionario:
+cursos = {
+    "Pedro": ["Matemáticas", "Biología", "Historia"],
+    "María": ["Física", "Química", "Literatura"]
+}
 #a) Imprime las materias en las que está inscrito Pedro.
 #b) Agrega una materia más a la lista de materias de María: "Programación".
 #c) Crea un nuevo diccionario con los estudiantes que están inscritos en la materia de Biología.
 #7. Dado el siguiente diccionario:
+productos = {'manzanas': 2.99, 
+             'naranjas': 1.99, 
+             'peras': 3.99, 'uvas': 4.99, 
+             'kiwis': 0.99, 'duraznos': 2.49}
+stock = {'manzanas': 100, 'naranjas': 50, 'peras': 25, 'uvas': 75, 'kiwis': 200, 'duraznos': 60}
 #a) Imprime el precio de las naranjas.
 #b) Cambia el stock de peras a 12.
 #c) Crea una función que calcule el valor total de los productos en el diccionario.

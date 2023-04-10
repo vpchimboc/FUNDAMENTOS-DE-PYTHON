@@ -10,3 +10,4 @@
 #Crear una tupla con los meses del año y mostrar aquellos que tienen más de cinco letras.
 #Crear una tupla con las edades de varias personas y mostrar la cantidad de personas mayores de 18 años.
 #Crear una tupla de tuplas que contienen información de libros y mostrar el título del tercer libro.
+
